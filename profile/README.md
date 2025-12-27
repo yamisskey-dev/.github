@@ -1,3 +1,3 @@
 # yamisskey-dev
 
-**Privacy-first. Mental health-aware. For the Fediverse.**
+**Privacy-first. Mental-first. For the Fediverse.**
