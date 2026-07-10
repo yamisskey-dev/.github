@@ -18,14 +18,14 @@
 
 「病み」や「闇」を言葉にできるSNS [やみすきー](https://yami.ski) と、その周りに広がる YAMI エコシステムを作っている開発者コミュニティです。
 
-## 参加する
+## 参加
 
 Issue と Pull Request はどのリポジトリでも歓迎します。
 
-エコシステムの方向性そのものに関わりたい場合は、[やみすきー](https://yami.ski) のアカウントを取ったうえで [YAMI DAO](https://dao.yami.ski) の提案と投票に参加してください。やみすきーは[承認制](https://hub.yami.ski/guides/approval/)です。
+エコシステムの方向性そのものに関わりたい場合は、[やみすきー](https://yami.ski) アカウントを取ったうえで [YAMI DAO](https://dao.yami.ski) の提案と投票に参加してください。
 
 
-## ドキュメント
+## 文献
 
-- [HackMD](https://hackmd.io/@yamisskey-dev)
-- [Writeup](https://team.yami.ski)
+- [HackMD](https://hackmd.io/@yamisskey-dev)：サーバー管理者や開発メンバーによるドキュメント
+- [MkDocs](https://team.yami.ski)：yamisskey-dev有志メンバーによるCTFチームのWriteUp
