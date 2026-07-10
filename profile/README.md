@@ -12,7 +12,6 @@
   <a href="https://yami.ski"><img alt="Misskey" src="https://img.shields.io/badge/Misskey-yami.ski-A374FF?style=for-the-badge&labelColor=130E26&logo=misskey&logoColor=A374FF"></a>
   <a href="https://dao.yami.ski"><img alt="YAMI DAO" src="https://img.shields.io/badge/DAO-Optimism-D655D6?style=for-the-badge&labelColor=130E26&logo=ethereum&logoColor=D655D6"></a>
   <a href="https://chat.yami.ski"><img alt="Matrix" src="https://img.shields.io/badge/Matrix-chat.yami.ski-8B5CF6?style=for-the-badge&labelColor=130E26&logo=matrix&logoColor=8B5CF6"></a>
-  <a href="https://hub.yami.ski"><img alt="Docs" src="https://img.shields.io/badge/Docs-hub.yami.ski-6BCB77?style=for-the-badge&labelColor=130E26&logo=astro&logoColor=6BCB77"></a>
 </p>
 
 ---
@@ -27,6 +26,6 @@ Issue と Pull Request はどのリポジトリでも歓迎します。
 
 ## 文献
 
-- [hub.yami.ski](https://hub.yami.ski)：YAMI エコシステムの利用者向けドキュメント
+- [Starlight](https://hub.yami.ski)：YAMI エコシステムのユーザー向けドキュメント
 - [HackMD](https://hackmd.io/@yamisskey-dev)：サーバー管理者や開発メンバーによるドキュメント
-- [team.yami.ski](https://team.yami.ski)：有志メンバーによるCTFチームyamiuchiのWriteUp
+- [MkDocs](https://team.yami.ski)：有志メンバーによるCTFチームyamiuchiのWriteUp
