@@ -28,4 +28,4 @@ Issue と Pull Request はどのリポジトリでも歓迎します。
 ## 文献
 
 - [HackMD](https://hackmd.io/@yamisskey-dev)：サーバー管理者や開発メンバーによるドキュメント
-- [MkDocs](https://team.yami.ski)：yamisskey-dev有志メンバーによるCTFチームのWriteUp
+- [MkDocs](https://team.yami.ski)：有志メンバーによるCTFチームyamiuchiのWriteUp
