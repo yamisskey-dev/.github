@@ -22,7 +22,7 @@
 
 Issue と Pull Request はどのリポジトリでも歓迎します。
 
-エコシステムの方向性そのものに関わりたい場合、[やみすきー](https://yami.ski) アカウントを取ったうえで [YAMI DAO](https://dao.yami.ski) の提案と投票に参加してください
+エコシステムの方向性そのものに関わりたい場合、[やみすきー](https://yami.ski) アカウントを取ったうえで [YAMI DAO](https://snapshot.org/#/s:yamidao.eth) の提案と投票に参加してください
 
 
 ## 文献
