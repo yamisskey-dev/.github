@@ -16,7 +16,7 @@
 
 ---
 
-「病み」や「闇」を言葉にできるSNS [やみすきー](https://yami.ski) と、その周りに広がる YAMI エコシステムを作っている開発者コミュニティ
+「病み」や「闇」を言葉にできるSNS [やみすきー](https://hub.yami.ski/guides/about/) と、その周りに広がる [YAMI エコシステム](https://hub.yami.ski/guides/ecosystem/)を作っている開発者コミュニティ
 
 ## 参加
 
